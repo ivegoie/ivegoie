@@ -6,8 +6,9 @@
         I'm Ivan.<br>
         Currently learning to walk in Data Science, Web Development, AI/ML and IoT without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
-      <img src="https://www.algebra.hr/wp-content/uploads/2021/10/Algebra_glavni.svg" width="25%" alt="Algebra"> <br>
     </i><br>
+    <img src="https://www.algebra.hr/wp-content/uploads/2021/10/Algebra_glavni.svg" width="25%" alt="Algebra"> <br>
+    <img src="https://i.ibb.co/FqsY428/1676031792637-removebg-preview-1.png" alt="Tech City Pula"> <br>
     <a href="https://www.linkedin.com/in/ivan-zivolic">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
