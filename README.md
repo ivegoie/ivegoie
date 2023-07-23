@@ -12,8 +12,6 @@
     <a href="https://www.linkedin.com/in/ivan-zivolic">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://replit.com/@ivegoie">
-      <img src="https://img.shields.io/badge/Repl-blue?style=flat-square&logo=replit" alt="Repl">
 </p>
 
 ### Languages
@@ -23,11 +21,21 @@
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/ivegoie)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/ivegoie)
+[![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)](https://hub.docker.com/u/ivegoie)
+![FASTApi](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI&logoColor=white)
+
+### GUI
+[![TKINTER](https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=tkinter)](https://hub.docker.com/u/ivegoie)
+
+
+### Databases
+[![SQLITE](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://hub.docker.com/u/ivegoie)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/ivegoie)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/ivegoie)
-[![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/ivegoie)
+[![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=iOS)](https://github.com/ivegoie)
+
 
 <details>
 <p align="center">
@@ -39,9 +47,6 @@
   </a>
   <a href="https://github.com/ivegoie">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivegoie&theme=transparent" />
-  </a>
-  <a href="https://github.com/ivegoie">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivegoie&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
