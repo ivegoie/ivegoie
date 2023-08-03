@@ -19,13 +19,14 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ivegoie)
 
 ### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/ivegoie)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/ivegoie)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=HTML5)](https://hub.docker.com/u/ivegoie)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=CSS3)](https://hub.docker.com/u/ivegoie)
 [![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)](https://hub.docker.com/u/ivegoie)
-![FASTApi](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI&logoColor=white)
+![FASTApi](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI)
 
 ### GUI
 [![TKINTER](https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=tkinter)](https://hub.docker.com/u/ivegoie)
+[![PySide6](https://img.shields.io/badge/pyside6-black?style=for-the-badge&logo=PySide6)](https://hub.docker.com/u/ivegoie)
 
 
 ### Databases
@@ -34,7 +35,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/ivegoie)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/ivegoie)
-[![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=iOS)](https://github.com/ivegoie)
+[![iOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/ivegoie)
 
 
 <details>
