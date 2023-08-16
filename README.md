@@ -9,25 +9,19 @@
     </i><br>
     <img src="https://www.algebra.hr/wp-content/uploads/2021/10/Algebra_glavni.svg" width="25%" alt="Algebra"> <br>
     <img src="https://i.ibb.co/FqsY428/1676031792637-removebg-preview-1.png" alt="Tech City Pula"> <br>
-    <a href="https://www.linkedin.com/in/ivan-zivolic">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
 </p>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/ivegoie)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/ivegoie)
 
 ### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=HTML5)](https://hub.docker.com/u/ivegoie)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=CSS3)](https://hub.docker.com/u/ivegoie)
 [![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)](https://hub.docker.com/u/ivegoie)
-![FASTApi](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=FastAPI)
+[![FASTApi](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://hub.docker.com/u/ivegoie)
 
 ### GUI
 [![TKINTER](https://img.shields.io/badge/tkinter-black?style=for-the-badge&logo=tkinter)](https://hub.docker.com/u/ivegoie)
-[![PySide6](https://img.shields.io/badge/pyside6-black?style=for-the-badge&logo=PySide6)](https://hub.docker.com/u/ivegoie)
-
+[![PySide6](https://img.shields.io/badge/pyside6-black?style=for-the-badge&logo=pyside6)](https://hub.docker.com/u/ivegoie)
 
 ### Databases
 [![SQLITE](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://hub.docker.com/u/ivegoie)
