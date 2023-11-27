@@ -13,6 +13,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ivegoie)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/ivegoie)
 
 ### Technologies & Frameworks
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)](https://hub.docker.com/u/ivegoie)
