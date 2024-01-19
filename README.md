@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        "I'm currently immersing myself inbackend and game development without hitting the ground. Exploring the intricacies of server-side operations and delving into the world of game logic and mechanics keeps me motivated and excited. The journey may have its challenges, but the prospect of creating powerful and engaging systems is what keeps me going."<br><br>
+        "I'm currently immersing myself in backend and game development without hitting the ground. Exploring the intricacies of server-side operations and delving into the world of game logic and mechanics keeps me motivated and excited. The journey may have its challenges, but the prospect of creating powerful and engaging systems is what keeps me going."<br><br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
