@@ -6,6 +6,7 @@
         "I'm currently immersing myself in web development without hitting the ground too hard. However, my true passion lies in backend and game development. Exploring the intricacies of            server-side operations and delving into the world of game logic and mechanics keeps me motivated and excited. The journey may have its challenges, but the prospect of creating             powerful and engaging systems is what keeps me going."<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
     <img src="https://www.algebra.hr/wp-content/uploads/2021/10/Algebra_glavni.svg" width="25%" alt="Algebra"> <br>
     <img src="https://i.ibb.co/FqsY428/1676031792637-removebg-preview-1.png" alt="Tech City Pula"> <br>
 </p>
