@@ -3,8 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Ivan.<br>
-        Currently learning Web Development without falling on my bottom.<br>
+        "I'm currently immersing myself in web development without hitting the ground too hard. However, my true passion lies in backend and game development. Exploring the intricacies of            server-side operations and delving into the world of game logic and mechanics keeps me motivated and excited. The journey may have its challenges, but the prospect of creating             powerful and engaging systems is what keeps me going."<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <img src="https://www.algebra.hr/wp-content/uploads/2021/10/Algebra_glavni.svg" width="25%" alt="Algebra"> <br>
@@ -12,23 +11,27 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ivegoie)
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/ivegoie)
+[![Python](https://img.shields.io/badge/Python-%236DB33F?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ivegoie)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%236DB33F?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/ivegoie)
+[![C#](https://img.shields.io/badge/c%23-%236DB33F?style=for-the-badge&logo=c%23&logoColor=white)](https://github.com/ivegoie)
 
 ### Technologies & Frameworks
-[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white)](https://hub.docker.com/u/ivegoie)
-[![CSS3](https://img.shields.io/badge/CSS-black?&style=for-the-badge&logo=css3&logoColor=white)](https://hub.docker.com/u/ivegoie)
-[![FLASK](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)](https://hub.docker.com/u/ivegoie)
-[![JSON](https://img.shields.io/badge/json-black?style=for-the-badge&logo=json)](https://hub.docker.com/u/ivegoie)
+[![HTML](https://img.shields.io/badge/HTML5-%236DB33F?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ivegoie)
+[![CSS3](https://img.shields.io/badge/CSS3-%236DB33F?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ivegoie)
+[![REACT](https://img.shields.io/badge/React.js-%236DB33F?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ivegoie)
+[![VITE](https://img.shields.io/badge/vite-%236DB33F?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/ivegoie)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%236DB33F?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/ivegoie)
+[![FLASK](https://img.shields.io/badge/Flask-%236DB33F?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/ivegoie)
+[![JSON](https://img.shields.io/badge/json-%236DB33F?style=for-the-badge&logo=json)](https://github.com/ivegoie)
 
 ### Databases
-[![SQLITE](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white)](https://hub.docker.com/u/ivegoie)
-[![MONGODB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white)](https://hub.docker.com/u/ivegoie)
+[![SQLITE](https://img.shields.io/badge/SQLite-%236DB33F?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivegoie)
+[![MONGODB](https://img.shields.io/badge/MongoDB-%236DB33F?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/ivegoie)
 
 ### OS
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ivegoie)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/ivegoie)
-[![iOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/ivegoie)
+[![Linux](https://img.shields.io/badge/Linux-%236DB33F?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ivegoie)
+[![Windows](https://img.shields.io/badge/Windows-%236DB33F?style=for-the-badge&logo=Windows)](https://github.com/ivegoie)
+[![iOS](https://img.shields.io/badge/macos-%236DB33F?style=for-the-badge&logo=MacOS)](https://github.com/ivegoie)
 
 
 <details>
