@@ -14,7 +14,7 @@
 ### Languages
 [![Python](https://img.shields.io/badge/Python-%236DB33F?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ivegoie)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%236DB33F?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/ivegoie)
-[![C#](https://img.shields.io/badge/c%23-%236DB33F?style=for-the-badge&logo=c%23&logoColor=white)](https://github.com/ivegoie)
+[![C#](https://img.shields.io/badge/c%23?style=for-the-badge&logo=c%23&logoColor=white)](https://github.com/ivegoie)
 
 ### Technologies & Frameworks
 [![HTML](https://img.shields.io/badge/HTML5-%236DB33F?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ivegoie)
