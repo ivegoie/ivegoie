@@ -7,7 +7,7 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-    <img src="https://www.algebra.hr/wp-content/uploads/2021/10/Algebra_glavni.svg" width="25%" alt="Algebra"> <br>
+    <img src="https://www.algebra.hr/wp-content/uploads/2021/10/Algebra_glavni.svg" width="25%" alt="Algebra">
     <img src="https://i.ibb.co/FqsY428/1676031792637-removebg-preview-1.png" alt="Tech City Pula"> <br>
 </p>
 
