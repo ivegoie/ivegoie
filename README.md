@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        "I'm currently immersing myself in backend and game development without hitting the ground too hard. Exploring the intricacies of            server-side operations and diving into the world of game logic and mechanics keeps me motivated and excited. The journey may have its challenges, but the prospect of creating powerful and engaging systems is what keeps me going."<br><br>
+        "I'm currently immersing myself in front-end and game development without hitting the ground too hard. Exploring the intricacies of server-side operations and diving into the world of game logic and mechanics keeps me motivated and excited. The journey may have its challenges, but the prospect of creating powerful and engaging systems is what keeps me going."<br><br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -21,6 +21,7 @@
 [![HTML](https://img.shields.io/badge/HTML5-%236DB33F?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ivegoie)
 [![CSS3](https://img.shields.io/badge/CSS3-%236DB33F?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ivegoie)
 [![REACT](https://img.shields.io/badge/React.js-%236DB33F?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ivegoie)
+[![NEXT](https://img.shields.io/badge/Next.js-%236DB33F?style=for-the-badge&logo=next&logoColor=white)](https://github.com/ivegoie)
 [![VITE](https://img.shields.io/badge/vite-%236DB33F?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/ivegoie)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%236DB33F?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/ivegoie)
 [![FLASK](https://img.shields.io/badge/Flask-%236DB33F?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/ivegoie)
