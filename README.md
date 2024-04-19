@@ -27,7 +27,6 @@
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%236DB33F?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/ivegoie)
 [![FLASK](https://img.shields.io/badge/Flask-%236DB33F?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/ivegoie)
 [![JSON](https://img.shields.io/badge/json-%236DB33F?style=for-the-badge&logo=json)](https://github.com/ivegoie)
-[![SANITY](https://img.shields.io/badge/sanity-%236DB33F?style=for-the-badge&logo=sanity)](https://github.com/ivegoie)
 
 ### Databases
 [![SQLITE](https://img.shields.io/badge/SQLite-%236DB33F?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivegoie)
