@@ -22,6 +22,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%236DB33F?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ivegoie)
 [![REACT.JS](https://img.shields.io/badge/React.js-%236DB33F?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ivegoie)
 [![NEXT.JS](https://img.shields.io/badge/Next.js-%236DB33F?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ivegoie)
+[![EXPO](https://img.shields.io/badge/expo-%236DB33F?style=for-the-badge&logo=expo)](https://github.com/ivegoie)
 [![TYPESCRIPT](https://img.shields.io/badge/Typescript-%236DB33F?style=for-the-badge&logo=Typescript&logoColor=white)](https://github.com/ivegoie)
 [![VITE](https://img.shields.io/badge/vite-%236DB33F?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/ivegoie)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%236DB33F?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://github.com/ivegoie)
